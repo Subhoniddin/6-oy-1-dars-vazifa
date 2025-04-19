@@ -11,14 +11,14 @@
    left: 0;
 }
 .info .title {
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-weight: 600;
     font-size: 64px;
     line-height: 80px;
 }
 .info p.descr {
     color: #8F95A5;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 24px;
     line-height: 40px;
@@ -29,7 +29,7 @@
     width: 438px;
     height: 118px;
     border-radius: 15px;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 36px;
     line-height: 100%;
